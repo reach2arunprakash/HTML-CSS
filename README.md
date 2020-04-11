@@ -8,7 +8,7 @@ In this tutorial, we'll start from the very beginning.  You don't need to know a
 Now.  Or whenever.  I'm not planning on taking this down anytime soon.  But you are only limited by your own schedule.  Or set free by it.  Whatever.
 
 ## Table of Contents
- * [HTML](https://github.com/reach2arunprakash/HTML-CSS-Tutorial#html-time-lets-go)
+ * HTML
 	* Editors
 	* Tag Structure
 	* Text Structure
@@ -24,8 +24,8 @@ Now.  Or whenever.  I'm not planning on taking this down anytime soon.  But you 
 		* Text Styles
 	* The `<head>` tag
 	* Putting it all together so far
- * [CSS](https://github.com/reach2arunprakash/HTML-CSS-Tutorial#css-is-magical-and-now-youre-gonna-learn-it)
-	* Classes and IDs and other Segregation
+ * CSS
+    * Classes and IDs and other Segregation
 		* Classes
 		* IDs
 		* Other Segregation
@@ -45,7 +45,7 @@ Now.  Or whenever.  I'm not planning on taking this down anytime soon.  But you 
 			* Forms
 			* HTML5 and CSS3
 			* How To Meet Ladies/Laddies (Get it? HTML Jokes are the best...)        
- * [Final Project!](https://github.com/reach2arunprakash/HTML-CSS-Tutorial#final-project)
+ * Final Project
  * And now, the end is near
 
 ## HTML Time. Let's Go.
